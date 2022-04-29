@@ -1,0 +1,3 @@
+I spent most of the time trying out different approaches and methods of making the API work optimally and without hiccups, but staying true to the 4 hour limit I'm tuning in the assignment as it looks right now on the 4 hour mark. I've made some changes and cleaned up the calculation method itself and would definitely spend more time on fixing the overly complicated "if"-statements in a real life scenario.
+
+If I would do this assignment again I would most definitely stick to ASP.NET core API instead of trying out other approaches that I'm not familiar with, with regards to the 4 hour limit, and I would spend less time on improving the calculation method, before actually making the API work through HTTP, since it feels like I approached the assignment a bit backwards!
